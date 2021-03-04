@@ -1,3 +1,7 @@
+# 2021-03-04
+
+- Programs should exit at most once, and do so exclusively in `main`.
+
 # 2020-06-10
 
 - Add guidance on avoiding `init()`.
